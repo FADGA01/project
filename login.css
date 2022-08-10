@@ -1,0 +1,41 @@
+fieldset{
+	height: 250px;
+	width: 175px;
+	border-color:royalblue;
+	background-color: blanchedalmond;
+}
+body{
+	color:black;
+	font: 45px;
+	font-family: papyrus;
+	text-align: center;
+}
+#i{
+	border-radius: 15px;
+	height: 40px;
+	width: 340px;
+	text-align: center;
+	background-color: dodgerblue;
+	color: black;
+	font-size: 20px;
+}
+#s{
+	border-radius: 15px;
+	height: 40px;
+	width: 340px;
+	text-align: center;
+	background-color:black;
+	color: black;
+	font-size: 20px;
+
+}
+#e{
+	border-radius: 15px;
+	height: 40px;
+	width: 340px;
+	text-align: center;
+	background-color: dodgerblue;
+	color: black;
+	font-size: 20px;
+
+}

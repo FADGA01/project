@@ -1,0 +1,64 @@
+body{
+	background-color: #ADD8E6;
+
+}
+a{
+	text-decoration: none;
+}
+.fib{
+	font-family: calibri;
+	font-size: 140px;
+	font-weight:bold;
+	color: mediumblue;
+
+}
+.nani{
+	padding-top: 18%;
+}
+.formula{
+	height: 330px;
+	width: 330px;
+	background-color:white;
+	border-radius: 5px;
+	text-align:center;
+	padding-top: 15px;
+	justify-content: space-between;
+	box-shadow: blue;
+	margin-left: 40px;
+	margin-bottom: 50px;
+}
+#o{
+	border-color: lightblue;
+	border-radius: 10px 10px 10px 10px;
+	width: 290px;
+	height: 40px;
+	padding-right: 46;
+
+}
+.kere{
+	margin-top: 10px;
+}
+#k{
+	border-radius:10px 10px 10px 10px;
+	margin-top: 10px;
+	width: 290px;
+	height: 40px;
+	background-color:dodgerblue;
+	color: white;
+	font-size: 25px;
+	
+}
+.butt{
+	border-radius: 10px 10px 10px 10px;
+	background-color: greenyellow;
+	width: 200px;
+	height: 50px;
+	padding-top: 4px;
+	margin-left: 70px;
+	font-size: 19px;
+	color: white;
+	font-weight: bold;
+}
+.nana{
+	margin-left: 100px;
+}
